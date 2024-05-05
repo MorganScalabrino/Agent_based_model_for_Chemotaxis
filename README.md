@@ -1,2 +1,2 @@
 # ProjetPluri
-To centralise the code and the report of the pluridisciplinary project about chemotaxis.
+Centralising the code and report of the multidisciplinary project on chemotaxis.
